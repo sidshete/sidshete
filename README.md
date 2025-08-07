@@ -166,9 +166,10 @@ I’m a robotics and computer vision engineer passionate about building intellig
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌍 [Portfolio Website](https://yourwebsite.com)
-- 📨 Reach out for opportunities in robotics, computer vision, or embedded AI
+- 🌐 [LinkedIn](https://www.linkedin.com/in/siddhant-shete/)
+- 🌍 [Google Scholar]([https://yourwebsite.com](https://scholar.google.com/citations?hl=en&authuser=1&user=fZ225swAAAAJ))
+
+  📨 Reach out for opportunities in robotics, computer vision, or embedded AI
 
 ---
 
