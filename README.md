@@ -14,13 +14,15 @@ I’m a robotics and computer vision engineer passionate about building intellig
   <img src="logos/gif/ml.gif" width="180" alt="Machine Learning" />
   <img src="logos/gif/computer_vision.gif" width="180" alt="Computer Vision" />
   <img src="logos/gif/deep_learning.gif" width="180" alt="DL" />
+  <img src="logos/gif/AI.gif" width="180" alt="ai" />
 </p>
 
 <p float="left" align="center">
   <b>🤖 Robotics</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📊 ML & AI</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>📊 Machine Learning</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>👁️ Computer Vision</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📡 Deep Learning</b>
+  <b>📡 Deep Learning</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>👁️ AI</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
