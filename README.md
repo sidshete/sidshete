@@ -142,10 +142,8 @@ I’m a robotics and computer vision engineer passionate about building intellig
 - [Aerial-Robotics](https://github.com/yourusername/Aerial-Robotics)  
   Robotics control and planning for aerial drones using MATLAB.
 
-
-
 ### 🧠 Synthetic Data Generation & Automation
-- [synthetic_data_generation_with_prompts_for_object-text_insertion](https://github.com/yourusername/synthetic_data_generation_with_prompts_for_object-text_insertion)  
+- [synthetic_data_generation_with_prompts_for_object-text_insertion](https://github.com/sidshete/synthetic_data_generation_with_prompts_for_object-text_insertion)  
   Synthetic data generation pipeline for augmenting datasets by inserting text on objects.
 - [Invisible_cloak](https://github.com/yourusername/Invisible_cloak)  
   Computer vision-based invisibility cloak using background subtraction.
