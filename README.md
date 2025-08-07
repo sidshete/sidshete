@@ -28,18 +28,20 @@ I’m a robotics and computer vision engineer passionate about building intellig
 ---
 
 <!-- Level 2: Subcategories -->
+
+
 <p float="left" align="center">
-  <img src="path_to_planning_logo.png" width="50" alt="Planning" />
-  <img src="path_to_simulation_logo.png" width="50" alt="Simulation" />
-  <img src="path_to_detection_logo.png" width="50" alt="Detection" />
-  <img src="path_to_tracking_logo.png" width="50" alt="Tracking" />
-  <img src="path_to_detection_logo.png" width="50" alt="Detection" />
-  <img src="path_to_tracking_logo.png" width="50" alt="Tracking" />
-  <img src="path_to_fusion_logo.png" width="50" alt="Fusion" />
-  <img src="path_to_edge_ai_logo.png" width="50" alt="Edge AI" />
+  <img src="logos/path_planning.png" width="50" alt="Planning" />
+  <img src="logos/digital-twin.jpg" width="50" alt="Simulation" />
+  <img src="logos/detection.png" width="50" alt="Detection" />
+  <img src="logos/tracking.jpg" width="50" alt="Tracking" />
+  <img src="logos/detection.png" width="50" alt="Detection" />
+  <img src="logos/tracking.jpg" width="50" alt="Tracking" />
+  <img src="logos/sensor_fusion.svg" width="50" alt="Fusion" />
+  <img src="logos/Embeded.png" width="50" alt="Edge AI" />
 </p>
 
-<p float="left" align="center" style="margin-top:0;">
+<p float="left" align="center" style="margin-top: 0;">
   <b>🛠️ Planning & Control</b> &nbsp;&nbsp;&nbsp;
   <b>🧪 Simulation & Twin</b> &nbsp;&nbsp;&nbsp;
   <b>🎯 Detection</b> &nbsp;&nbsp;&nbsp;
@@ -49,6 +51,7 @@ I’m a robotics and computer vision engineer passionate about building intellig
   <b>🔗 Sensor Fusion</b> &nbsp;&nbsp;&nbsp;
   <b>⚙️ Edge AI</b>
 </p>
+
 
 ---
 
