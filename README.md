@@ -11,7 +11,7 @@ I’m a robotics and computer vision engineer passionate about building intellig
 <table align="center">
   <tr>
     <td align="center">
-      <img src="logos/gif/robotics.gif" width="140"/><br/>
+      <img src="logos/gif/robotics.gif" width="110"/><br/>
       <b> Robotics</b>
     </td>
     <td align="center">
