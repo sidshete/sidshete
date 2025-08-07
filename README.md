@@ -10,17 +10,17 @@ I’m a robotics and computer vision engineer passionate about building intellig
 
 <!-- Level 1: Domains -->
 <p float="left" align="center">
-  <img src="path_to_robotics_logo.png" width="60" alt="Robotics" />
-  <img src="path_to_ml_logo.png" width="60" alt="Machine Learning" />
-  <img src="path_to_cv_logo.png" width="60" alt="Computer Vision" />
-  <img src="path_to_sensors_logo.png" width="60" alt="Sensors & Hardware" />
+  <img src="logos/gif/robotics.gif" width="180" alt="Robotics" />
+  <img src="logos/gif/ml.gif" width="180" alt="Machine Learning" />
+  <img src="logos/gif/computer_vision.gif" width="180" alt="Computer Vision" />
+  <img src="logos/gif/deep_learning.gif" width="180" alt="DL" />
 </p>
 
 <p float="left" align="center">
   <b>🤖 Robotics</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>📊 ML & AI</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>👁️ Computer Vision</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📡 Sensors & Hardware</b>
+  <b>📡 Deep Learning</b>
 </p>
 
 ---
