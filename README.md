@@ -5,53 +5,65 @@ Welcome to my GitHub!
 I’m a robotics and computer vision engineer passionate about building intelligent perception systems, solving real-world challenges in autonomy, and enabling innovation through AI and embedded systems.
 
 ---
+<!-- 🚀 Expertise Domains -->
+<h2 align="center">🧠 My Expertise</h2>
 
-## 🧠 Expertise
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="logos/gif/robotics.gif" width="180"/><br/>
+      <b> Robotics</b>
+    </td>
+    <td align="center">
+      <img src="logos/gif/ml.gif" width="180"/><br/>
+      <b> Machien Learning</b>
+    </td>
+    <td align="center">
+      <img src="logos/gif/computer_vision.gif" width="180"/><br/>
+      <b>Computer Vision</b>
+    </td>
+    <td align="center">
+      <img src="logos/gif/deep_learning.gif" width="180"/><br/>
+      <b>Deep Learning</b>
+    </td>
+    <td align="center">
+      <img src="logos/gif/AI.gif" width="180"/><br/>
+      <b>Artificial Intelligence</b>
+    </td>
+  </tr>
+</table>
 
-<!-- Level 1: Domains -->
-<p float="left" align="center">
-  <img src="logos/gif/robotics.gif" width="180" alt="Robotics" />
-  <img src="logos/gif/ml.gif" width="180" alt="Machine Learning" />
-  <img src="logos/gif/computer_vision.gif" width="180" alt="Computer Vision" />
-  <img src="logos/gif/deep_learning.gif" width="180" alt="DL" />
-  <img src="logos/gif/AI.gif" width="180" alt="ai" />
-</p>
+<hr style="border-top: 2px dashed #bbb; margin: 40px 0;" />
 
-<p float="left" align="center">
-  <b>🤖 Robotics</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📊 Machine Learning</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>👁️ Computer Vision</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📡 Deep Learning</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>👁️ AI</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
----
-
-<!-- Level 2: Subcategories -->
-
-
-<p float="left" align="center">
-  <img src="logos/path_planning.png" width="50" alt="Planning" />
-  <img src="logos/digital-twin.jpg" width="50" alt="Simulation" />
-  <img src="logos/detection.png" width="50" alt="Detection" />
-  <img src="logos/tracking.jpg" width="50" alt="Tracking" />
-  <img src="logos/detection.png" width="50" alt="Detection" />
-  <img src="logos/tracking.jpg" width="50" alt="Tracking" />
-  <img src="logos/sensor_fusion.svg" width="50" alt="Fusion" />
-  <img src="logos/Embeded.png" width="50" alt="Edge AI" />
-</p>
-
-<p float="left" align="center" style="margin-top: 0;">
-  <b>🛠️ Planning & Control</b> &nbsp;&nbsp;&nbsp;
-  <b>🧪 Simulation & Twin</b> &nbsp;&nbsp;&nbsp;
-  <b>🎯 Detection</b> &nbsp;&nbsp;&nbsp;
-  <b>📍 Tracking</b> &nbsp;&nbsp;&nbsp;
-  <b>🎯 Detection</b> &nbsp;&nbsp;&nbsp;
-  <b>📍 Tracking</b> &nbsp;&nbsp;&nbsp;
-  <b>🔗 Sensor Fusion</b> &nbsp;&nbsp;&nbsp;
-  <b>⚙️ Edge AI</b>
-</p>
-
+<!-- 🔍 Subdomains -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="logos/path_planning.png" width="100"/><br/>
+      <b>🛠Planning</b>
+    </td>
+    <td align="center">
+      <img src="logos/digital-twin.jpg" width="120"/><br/>
+      <b>Simulation</b>
+    </td>
+    <td align="center">
+      <img src="logos/detection.png" width="120"/><br/>
+      <b>Detection</b>
+    </td>
+    <td align="center">
+      <img src="logos/tracking.jpg" width="120"/><br/>
+      <b>Tracking</b>
+    </td>
+    <td align="center">
+      <img src="logos/sensor_fusion.svg" width="120"/><br/>
+      <b>Sensor Fusion</b>
+    </td>
+    <td align="center">
+      <img src="logos/Embeded.png" width="120"/><br/>
+      <b>Edge AI</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
