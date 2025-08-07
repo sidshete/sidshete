@@ -6,7 +6,7 @@ I’m a robotics and computer vision engineer passionate about building intellig
 
 ---
 <!-- 🚀 Expertise Domains -->
-<h2 align="center">🧠 My Expertise</h2>
+<h2 align="center"> My Expertise</h2>
 
 <table align="center">
   <tr>
@@ -40,7 +40,7 @@ I’m a robotics and computer vision engineer passionate about building intellig
   <tr>
     <td align="center">
       <img src="logos/path_planning.png" width="100"/><br/>
-      <b>🛠Planning</b>
+      <b>Planning</b>
     </td>
     <td align="center">
       <img src="logos/digital-twin.jpg" width="120"/><br/>
@@ -114,7 +114,7 @@ I’m a robotics and computer vision engineer passionate about building intellig
 
 ## 🚀 Projects
 
-## 📂 Projects Categorized by Technology
+
 
 ### 🎯 3D Object Detection & Multi-Object Tracking
 - [AB3DMOT_3D_Multi_Object_Tracking](https://github.com/sidshete/AB3DMOT_3D_Multi_Object_Tracking)  
