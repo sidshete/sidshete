@@ -15,7 +15,7 @@ I’m a robotics and computer vision engineer passionate about building intellig
       <b> Robotics</b>
     </td>
     <td align="center">
-      <img src="logos/gif/ml.gif" width="180"/><br/>
+      <img src="logos/gif/ml.gif" width="160"/><br/>
       <b> Machine Learning</b>
     </td>
     <td align="center">
