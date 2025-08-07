@@ -11,7 +11,7 @@ I’m a robotics and computer vision engineer passionate about building intellig
 <table align="center">
   <tr>
     <td align="center">
-      <img src="logos/gif/robotics.gif" width="180"/><br/>
+      <img src="logos/gif/robotics.gif" width="140"/><br/>
       <b> Robotics</b>
     </td>
     <td align="center">
@@ -23,11 +23,11 @@ I’m a robotics and computer vision engineer passionate about building intellig
       <b>Computer Vision</b>
     </td>
     <td align="center">
-      <img src="logos/gif/deep_learning.gif" width="180"/><br/>
+      <img src="logos/gif/deep_learning.gif" width="120"/><br/>
       <b>Deep Learning</b>
     </td>
     <td align="center">
-      <img src="logos/gif/AI.gif" width="180"/><br/>
+      <img src="logos/gif/AI.gif" width="150"/><br/>
       <b>Artificial Intelligence</b>
     </td>
   </tr>
