@@ -55,8 +55,8 @@ I’m a robotics and computer vision engineer passionate about building intellig
       <b>Tracking</b>
        </td>
     <td align="center">
-      <img src="logos/Embeded.png" width="120"/><br/>
-      <b>Edge AI</b>
+      <img src="logos/genai.png" width="120"/><br/>
+      <b>GenAI</b>
     </td>
     </td>
     <td align="center">
@@ -147,12 +147,12 @@ I’m a robotics and computer vision engineer passionate about building intellig
 ### 🧠 Synthetic Data Generation & Automation
 - [synthetic_data_generation_with_prompts_for_object-text_insertion](https://github.com/yourusername/synthetic_data_generation_with_prompts_for_object-text_insertion)  
   Synthetic data generation pipeline for augmenting datasets by inserting text on objects.
-- [mcqgen](https://github.com/yourusername/mcqgen)  
-  Automated generation of multiple-choice questions from datasets (private).
-- [trial](https://github.com/yourusername/trial)  
-  Experimental work and prototyping (private).
 - [Invisible_cloak](https://github.com/yourusername/Invisible_cloak)  
   Computer vision-based invisibility cloak using background subtraction.
+
+### Generative AI
+- [mcqgen](https://github.com/yourusername/mcqgen)  
+  Automated generation of multiple-choice questions from datasets (private).
 
 ### 🏥 Detection
 - [Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch](https://github.com/yourusername/Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch)  
