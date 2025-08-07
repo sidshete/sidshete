@@ -53,6 +53,11 @@ I’m a robotics and computer vision engineer passionate about building intellig
     <td align="center">
       <img src="logos/tracking.jpg" width="120"/><br/>
       <b>Tracking</b>
+       </td>
+    <td align="center">
+      <img src="logos/Embeded.png" width="120"/><br/>
+      <b>Edge AI</b>
+    </td>
     </td>
     <td align="center">
       <img src="logos/sensor_fusion.svg" width="120"/><br/>
@@ -107,28 +112,57 @@ I’m a robotics and computer vision engineer passionate about building intellig
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
-### 🎯 3D Perception & Tracking
-- [AB3DMOT_3D_Multi_Object_Tracking](https://github.com/yourusername/AB3DMOT_3D_Multi_Object_Tracking) – Real-time 3D Multi-Object Tracking using LiDAR data  
-- [FrustumPointNet Object Detection](https://github.com/yourusername/FrustrumPointnet_object_detection_using_LiDAR_data) – LiDAR-based 3D object detection using frustum proposals
+## 📂 Projects Categorized by Technology
 
-### 🧠 Segmentation & Vision AI
-- [Mask2Former Instance Segmentation](https://github.com/yourusername/instance_segmentation_using_Mask2Former) – Modern transformer-based instance segmentation  
-- [OneFormer on Custom Dataset](https://github.com/yourusername/Oneformer_instance_segmentation_with_custom_dataset) – Unified semantic + instance segmentation  
-- [Anomaly Detection with SAM](https://github.com/yourusername/anomaly_detection_and_segmentation_using_sam) – Foundation model applied to visual anomaly detection  
-- [YOLOv8 Segmentation](https://github.com/yourusername/instance_segmentation_with-custom_dataset_using_yolov8) – Training YOLOv8 for real-world instance segmentation tasks
+### 🎯 3D Object Detection & Multi-Object Tracking
+- [AB3DMOT_3D_Multi_Object_Tracking](https://github.com/yourusername/AB3DMOT_3D_Multi_Object_Tracking)  
+  Multi-object tracking in 3D space using LiDAR and vision data for autonomous navigation.
+- [FrustrumPointnet_object_detection_using_LiDAR_data](https://github.com/yourusername/FrustrumPointnet_object_detection_using_LiDAR_data)  
+  3D object detection leveraging LiDAR data with Frustum PointNet architecture.
+- [YOLOv3-Dectection-and-Tracking-with-Custom-Dataset](https://github.com/yourusername/YOLOv3-Dectection-and-Tracking-with-Custom-Dataset)  
+  Real-time object detection and tracking with YOLOv3 on custom datasets.
+- [Object-Tracking-using-OpenCV-](https://github.com/yourusername/Object-Tracking-using-OpenCV-)  
+  Vision-based multi-object tracking implementation using OpenCV libraries.
 
-### 🔍 Classical CV & Tracking
-- [YOLOv3 Detection and Tracking](https://github.com/yourusername/YOLOv3-Dectection-and-Tracking-with-Custom-Dataset)  
-- [OpenCV-based Object Tracking](https://github.com/yourusername/Object-Tracking-using-OpenCV-)  
-- [Car & Pedestrian Detection](https://github.com/yourusername/Car-Pedestrian-Detection)
+### 🖼️ Instance & Anomaly Segmentation
+- [instance_segmentation_using_Mask2Former](https://github.com/yourusername/instance_segmentation_using_Mask2Former)  
+  Instance segmentation on images using the state-of-the-art Mask2Former model.
+- [Oneformer_instance_segmentation_with_custom_dataset](https://github.com/yourusername/Oneformer_instance_segmentation_with_custom_dataset)  
+  Training OneFormer architecture for instance segmentation on custom datasets.
+- [anomaly_detection_and_segmentation_using_sam](https://github.com/yourusername/anomaly_detection_and_segmentation_using_sam)  
+  Anomaly detection and segmentation leveraging Segment Anything Model (SAM).
+- [instance_segmentation_with-custom_dataset_using_yolov8](https://github.com/yourusername/instance_segmentation_with-custom_dataset_using_yolov8)  
+  Instance segmentation with YOLOv8 trained on custom data.
 
-### ⚙️ Robotics & Planning
-- [Robotics Computational Motion Planning](https://github.com/yourusername/Robotics-Computational-Motion-Planning) – MATLAB-based path planning algorithms  
-- [Aerial Robotics](https://github.com/yourusername/Aerial-Robotics) – Coursework and projects in drone dynamics and control  
-- [Invisible Cloak (Fun CV Project)](https://github.com/yourusername/Invisible_cloak) – CV meets Harry Potter
+### 🤖 Robotics & Motion Planning
+- [Robotics-Computational-Motion-Planning](https://github.com/yourusername/Robotics-Computational-Motion-Planning)  
+  Algorithms and simulations for robotic motion planning in mobile platforms.
+- [Aerial-Robotics](https://github.com/yourusername/Aerial-Robotics)  
+  Robotics control and planning for aerial drones using MATLAB.
 
+
+
+### 🧠 Synthetic Data Generation & Automation
+- [synthetic_data_generation_with_prompts_for_object-text_insertion](https://github.com/yourusername/synthetic_data_generation_with_prompts_for_object-text_insertion)  
+  Synthetic data generation pipeline for augmenting datasets by inserting text on objects.
+- [mcqgen](https://github.com/yourusername/mcqgen)  
+  Automated generation of multiple-choice questions from datasets (private).
+- [trial](https://github.com/yourusername/trial)  
+  Experimental work and prototyping (private).
+- [Invisible_cloak](https://github.com/yourusername/Invisible_cloak)  
+  Computer vision-based invisibility cloak using background subtraction.
+
+### 🏥 Detection
+- [Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch](https://github.com/yourusername/Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch)  
+  COVID-19 detection from chest X-ray images using deep learning.
+- [Anomaly-detection-for-vision-based-obstacle-detection-in-automated-vehicles](https://github.com/yourusername/Anomaly-detection-for-vision-based-obstacle-detection-in-automated-vehicles)  
+  Vision-based anomaly detection for autonomous vehicle obstacle detection.
+- [Car-Pedestrian-Detection](https://github.com/yourusername/Car-Pedestrian-Detection)  
+  Object detection system for cars and pedestrians in video streams.
+- [Lane-Detection](https://github.com/yourusername/Lane-Detection)  
+  Lane line detection using computer vision techniques on driving footage.
 
 ---
 
