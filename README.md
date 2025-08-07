@@ -5,17 +5,105 @@ Welcome to my GitHub!
 I’m a robotics and computer vision engineer passionate about building intelligent perception systems, solving real-world challenges in autonomy, and enabling innovation through AI and embedded systems.
 
 ---
+<!-- 🚀 Expertise Domains -->
+<h2 align="center">🧠 My Expertise</h2>
 
-## 🔬 What I Do
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="logos/gif/robotics.gif" width="180"/><br/>
+      <b> Robotics</b>
+    </td>
+    <td align="center">
+      <img src="logos/gif/ml.gif" width="180"/><br/>
+      <b> Machine Learning</b>
+    </td>
+    <td align="center">
+      <img src="logos/gif/computer_vision.gif" width="180"/><br/>
+      <b>Computer Vision</b>
+    </td>
+    <td align="center">
+      <img src="logos/gif/deep_learning.gif" width="180"/><br/>
+      <b>Deep Learning</b>
+    </td>
+    <td align="center">
+      <img src="logos/gif/AI.gif" width="180"/><br/>
+      <b>Artificial Intelligence</b>
+    </td>
+  </tr>
+</table>
 
-I specialize in:
+<hr style="border-top: 2px dashed #bbb; margin: 40px 0;" />
 
-- **3D Object Detection & Multi-Object Tracking** using LiDAR and vision-based sensors
-- **Instance & Anomaly Segmentation** with modern architectures like Mask2Former, OneFormer, and SAM
-- **Sensor Fusion** across LiDAR, radar, IMU, stereo, and monocular cameras
-- **Robotic Motion Planning & Control** on mobile platforms (rovers, robotic arms)
-- **Simulation and Digital Twin development** for testing and deployment
-- **Edge AI on Embedded Devices** (Jetson, FPGA) with ROS1/2 and ROCK
+<!-- 🔍 Subdomains -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="logos/path_planning.png" width="100"/><br/>
+      <b>🛠Planning</b>
+    </td>
+    <td align="center">
+      <img src="logos/digital-twin.jpg" width="120"/><br/>
+      <b>Simulation</b>
+    </td>
+    <td align="center">
+      <img src="logos/detection.png" width="120"/><br/>
+      <b>Detection</b>
+    </td>
+    <td align="center">
+      <img src="logos/tracking.jpg" width="120"/><br/>
+      <b>Tracking</b>
+    </td>
+    <td align="center">
+      <img src="logos/sensor_fusion.svg" width="120"/><br/>
+      <b>Sensor Fusion</b>
+    </td>
+    <td align="center">
+      <img src="logos/Embeded.png" width="120"/><br/>
+      <b>Edge AI</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Row 1: Programming Languages -->
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+</p>
+
+<!-- Row 2: Libraries & Frameworks -->
+<h3 align="center">🧠 Frameworks & Libraries</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROCK-0B0C10?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-1C1C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<!-- Row 3: Tools & Deployment -->
+<h3 align="center">🛠️ Developer Tools & Deployment</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-0077C5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AutoML-FFBB00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-0081CB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI--CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
@@ -41,19 +129,6 @@ I specialize in:
 - [Aerial Robotics](https://github.com/yourusername/Aerial-Robotics) – Coursework and projects in drone dynamics and control  
 - [Invisible Cloak (Fun CV Project)](https://github.com/yourusername/Invisible_cloak) – CV meets Harry Potter
 
----
-
-## 🧑‍💻 Currently Exploring
-
-- Applying **foundation models** to robotics and anomaly detection  
-- Optimizing **multi-modal perception** for edge deployment  
-- Scaling up training pipelines for **3D tracking and segmentation**
-
----
-
-## 🧩 Tools & Technologies
-
-`Python`, `C++`, `PyTorch`, `OpenCV`, `ROS1/2`, `MATLAB`, `NVIDIA Jetson`, `FPGA`, `LiDAR`, `YOLO`, `Transformers`, `Jetson`, `Simulation`, `Digital Twin`, `SLAM`, `Path Planning`
 
 ---
 
